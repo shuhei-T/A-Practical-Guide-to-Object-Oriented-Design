@@ -1,1 +1,1 @@
-# A-Practical-Guide-to-Object-Oriented-Design
+# 書籍「オブジェクト指向設計 実践ガイド」学習記録
